@@ -20,8 +20,9 @@ USB2UART.GND  -> see circuit diagram below
 USB2UART.RTS  -> see circuit diagram below
 ```
 ![Power supply connection](circuit.png)
-VT1 is a p-channel MOSFET, such as AO3401.
-VT2 is a n-channel MOSFET, such as AO3402.
+<br>
+VT1 is a p-channel MOSFET, such as AO3401.<br>
+VT2 is a n-channel MOSFET, such as AO3402.<br>
 
 
 #### Usage (Linux)
